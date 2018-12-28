@@ -17,6 +17,9 @@ export default class Book extends Component {
 
   render() {
     const { img, title, author } = this.props.info;
+    const { handleClick } = this.props;
+    console.log(handleClick);
+
     return (
       <div className="book">
         <img src={img} width="150px" alt="book" />\
@@ -25,7 +28,7 @@ export default class Book extends Component {
           <h6>By : {author}</h6>
           <button onClick={this.addCount}>Thumbs Up!</button>
           <h1>count : {this.state.count} </h1>
-          <Button />
+          <Button handleClick={handleClick} />
         </div>
       </div>
     );
