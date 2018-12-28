@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.40566575.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.4de98774.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.4de98774.chunk.js.map",
-  "static/js/1.f739feb7.chunk.js": "/react-gh-pages/static/js/1.f739feb7.chunk.js",
-  "static/js/1.f739feb7.chunk.js.map": "/react-gh-pages/static/js/1.f739feb7.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/css/main.40566575.chunk.css.map": "/react-gh-pages/static/css/main.40566575.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.020548df87a89d02514149c06e92fe53.js": "/react-gh-pages/precache-manifest.020548df87a89d02514149c06e92fe53.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/Book-List-Project/static/css/main.40566575.chunk.css",
+  "main.js": "/Book-List-Project/static/js/main.8e8bc333.chunk.js",
+  "main.js.map": "/Book-List-Project/static/js/main.8e8bc333.chunk.js.map",
+  "static/js/1.f739feb7.chunk.js": "/Book-List-Project/static/js/1.f739feb7.chunk.js",
+  "static/js/1.f739feb7.chunk.js.map": "/Book-List-Project/static/js/1.f739feb7.chunk.js.map",
+  "runtime~main.js": "/Book-List-Project/static/js/runtime~main.9e5833c0.js",
+  "runtime~main.js.map": "/Book-List-Project/static/js/runtime~main.9e5833c0.js.map",
+  "static/css/main.40566575.chunk.css.map": "/Book-List-Project/static/css/main.40566575.chunk.css.map",
+  "index.html": "/Book-List-Project/index.html",
+  "precache-manifest.8d3f275031e7cb9a7720bc8535e25a35.js": "/Book-List-Project/precache-manifest.8d3f275031e7cb9a7720bc8535e25a35.js",
+  "service-worker.js": "/Book-List-Project/service-worker.js"
 }
